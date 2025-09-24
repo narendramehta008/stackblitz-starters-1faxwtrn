@@ -1,0 +1,37 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: Roboto, 'Helvetica Neue', sans-serif;
+}
+
+h1,
+h2 {
+  font-weight: 100;
+}
+
+button.mdc-button.animate-btn {
+  height: 54px;
+  font-size: 1.3em;
+  font-weight: 400;
+  margin: 2px 15px 25px;
+  vertical-align: top;
+}
+
+.container {
+  margin-top: 8vh;
+  margin: 8vh 5px 8vh;
+  text-align: center;
+}
+
+.angular-img-wrapper {
+  width: 230px;
+}
+
+.center-children-horizontally {
+  display: flex;
+  justify-content: center;
+}
